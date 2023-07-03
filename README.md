@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirine El Hajj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 📫 How to reach me **sirineelhajj11@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
